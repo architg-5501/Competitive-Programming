@@ -1,0 +1,15 @@
+﻿'Project1.exe' (Win32): Loaded 'C:\Users\MY DELL\Desktop\udemy c++\Project4\Debug\Project1.exe'. Symbols loaded.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0xf88 has exited with code 0 (0x0).
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x58a0 has exited with code 0 (0x0).
+The thread 0x2740 has exited with code 0 (0x0).
+The program '[1772] Project1.exe' has exited with code 0 (0x0).
